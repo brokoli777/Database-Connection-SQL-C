@@ -1,8 +1,4 @@
-/*
-Group 9
-Connor Squires / Alex Trimble / Bregwin Paul Jogi
-DBS_211_NGG MILESTONE 2
-*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <iomanip>
